@@ -1,0 +1,3 @@
+C:/Users/edusc/OneDrive/Documentos/majors_usp/sistemas_evolutivos/build/CMakeFiles/my_executable.dir
+C:/Users/edusc/OneDrive/Documentos/majors_usp/sistemas_evolutivos/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/edusc/OneDrive/Documentos/majors_usp/sistemas_evolutivos/build/CMakeFiles/ZERO_CHECK.dir

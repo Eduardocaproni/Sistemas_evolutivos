@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\edusc\OneDrive\Documentos\majors_usp\sistemas_evolutivos\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\edusc\OneDrive\Documentos\majors_usp\sistemas_evolutivos\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09508256-475C-3FC7-918B-3DDC70C9636E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

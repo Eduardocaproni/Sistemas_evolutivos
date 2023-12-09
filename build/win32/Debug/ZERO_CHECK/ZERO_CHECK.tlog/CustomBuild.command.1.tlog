@@ -1,0 +1,10 @@
+^C:\USERS\EDUSC\ONEDRIVE\DOCUMENTOS\MAJORS_USP\SISTEMAS_EVOLUTIVOS\BUILD\CMAKEFILES\0E07B45E40B93578F5E05386133998A0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/edusc/OneDrive/Documentos/majors_usp/sistemas_evolutivos -BC:/Users/edusc/OneDrive/Documentos/majors_usp/sistemas_evolutivos/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/edusc/OneDrive/Documentos/majors_usp/sistemas_evolutivos/build/MyProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
